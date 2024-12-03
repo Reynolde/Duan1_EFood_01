@@ -173,14 +173,14 @@ $product_order_by = $ProductModel->select_products_order_by(3, 'ASC');
             <div class="col-xl-7 col-lg-8 m-auto">
                 <div class="banner__slider owl-carousel">
                     <div class="banner__item">
-                        <div class="banner__text" >
+                        <div class="banner__text">
                             <span>Món ăn bán chạy</span>
                             <h1 style="color: aqua;">Cơm cháy</h1>
                             <a href="cua-hang">Mua ngay</a>
                         </div>
                     </div>
                     <div class="banner__item">
-                        <div class="banner__text" >
+                        <div class="banner__text">
                             <span>Món ăn bán chạy</span>
                             <h1 style="color: aqua;">Khô gà</h1>
                             <a href="cua-hang">Mua ngay</a>
@@ -188,7 +188,7 @@ $product_order_by = $ProductModel->select_products_order_by(3, 'ASC');
                     </div>
                     <div class="banner__item">
                         <div class="banner__text">
-                            <span >Món ăn bán chạy</span>
+                            <span>Món ăn bán chạy</span>
                             <h1 style="color: aqua;">Hạt dẻ cười</h1>
                             <a href="cua-hang">Mua ngay</a>
                         </div>

@@ -3,11 +3,11 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="description" content="Ashion Template">
-    <meta name="keywords" content="Ashion, unica, creative, html">
+    <meta name="description" content="EFood Template">
+    <meta name="keywords" content="EFood, unica, creative, html">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Ashion | Template</title>
+    <title>EFood | Template</title>
 
     <!-- Google Font -->
     <link href="https://fonts.googleapis.com/css2?family=Cookie&display=swap" rel="stylesheet">
@@ -120,7 +120,7 @@
 								<p class="mb-0">Tên tài khoản</p>
 							</div>
 							<div class="col-sm-9">
-								<p class="text-muted mb-0">khoa123</p>
+								<p class="text-muted mb-0">user1</p>
 							</div>
 						</div>
 						<hr>
@@ -145,7 +145,7 @@
 								<p class="mb-0">Đia chỉ</p>
 							</div>
 							<div class="col-sm-9">
-								<p class="text-muted mb-0">Cần Thơ</p>
+								<p class="text-muted mb-0">Hà Nội</p>
 							</div>
 						</div>
 						<hr>

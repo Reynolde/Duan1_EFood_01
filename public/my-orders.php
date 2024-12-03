@@ -7,7 +7,7 @@
     <meta name="keywords" content="Ashion, unica, creative, html">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Ashion | Template</title>
+    <title>EFood | Template</title>
 
     <!-- Google Font -->
     <link href="https://fonts.googleapis.com/css2?family=Cookie&display=swap" rel="stylesheet">
@@ -58,7 +58,7 @@
             <a href="#">Đăng ký</a>
         </div>
         <div class="offcanvas__auth acount">
-            <a href="#"><img src="img/product/product-1.jpg" alt="">KHOA123456</a>
+            <a href="#"><img src="img/product/product-1.jpg" alt="">Group 9</a>
         </div>
 
     </div>
@@ -102,7 +102,7 @@
                             <a href="#">Đăng ký</a>
                         </div> -->
                         <div class="header__right__auth acount">
-                            <a href="#"><img src="img/product/product-1.jpg" alt="">KHOA123456</a>
+                            <a href="#"><img src="img/product/product-1.jpg" alt="">Group 9</a>
 
                         </div>
                         <ul class="header__right__widget">
@@ -163,7 +163,7 @@
                         <figure class="itemside mb-3">
                             <div class="aside"><img src="./img/product/book-1.jpg" class="img-sm border"></div>
                             <figcaption class="info align-self-center">
-                                <p class="title">Dell Laptop with 500GB HDD <br> 8GB RAM</p> <span
+                                <p class="title">Product 1</p> <span
                                     class="text-danger">100.000đ </span>
                             </figcaption>
                         </figure>
@@ -172,7 +172,7 @@
                         <figure class="itemside mb-3">
                             <div class="aside"><img src="./img/product/book-1.jpg" class="img-sm border"></div>
                             <figcaption class="info align-self-center">
-                                <p class="title">Dell Laptop with 500GB HDD <br> 8GB RAM</p> <span
+                                <p class="title">Product 1</p> <span
                                     class="text-danger">100.000đ </span>
                             </figcaption>
                         </figure>
@@ -181,7 +181,7 @@
                         <figure class="itemside mb-3">
                             <div class="aside"><img src="./img/product/book-1.jpg" class="img-sm border"></div>
                             <figcaption class="info align-self-center">
-                                <p class="title">Dell Laptop with 500GB HDD <br> 8GB RAM</p> <span
+                                <p class="title">Product 1</p> <span
                                     class="text-danger">100.000đ </span>
                             </figcaption>
                         </figure>
@@ -190,7 +190,7 @@
                         <figure class="itemside mb-3">
                             <div class="aside"><img src="./img/product/book-1.jpg" class="img-sm border"></div>
                             <figcaption class="info align-self-center">
-                                <p class="title">Dell Laptop with 500GB HDD <br> 8GB RAM</p> <span
+                                <p class="title">Product 1</p> <span
                                     class="text-danger">100.000đ </span>
                             </figcaption>
                         </figure>
@@ -199,7 +199,7 @@
                         <figure class="itemside mb-3">
                             <div class="aside"><img src="./img/product/book-1.jpg" class="img-sm border"></div>
                             <figcaption class="info align-self-center">
-                                <p class="title">Dell Laptop with 500GB HDD <br> 8GB RAM</p> <span
+                                <p class="title">Product 1</p> <span
                                     class="text-danger">100.000đ </span>
                             </figcaption>
                         </figure>
@@ -208,7 +208,7 @@
                         <figure class="itemside mb-3">
                             <div class="aside"><img src="./img/product/book-1.jpg" class="img-sm border"></div>
                             <figcaption class="info align-self-center">
-                                <p class="title">Dell Laptop with 500GB HDD <br> 8GB RAM</p> <span
+                                <p class="title">Product 1</p> <span
                                     class="text-danger">100.000đ </span>
                             </figcaption>
                         </figure>
@@ -224,7 +224,7 @@
                                         <p class="mb-0 text-right">Họ và tên</p>
                                     </div>
                                     <div class="col-sm-8">
-                                        <p class="mb-0 text-right">Nguyễn Lê Anh Khoa</p>
+                                        <p class="mb-0 text-right">Nguyễn Văn A</p>
                                     </div>
                                 </div>
                                 <hr>
@@ -233,7 +233,7 @@
                                         <p class="mb-0 text-right">Địa chỉ giao hàng</p>
                                     </div>
                                     <div class="col-sm-8">
-                                        <p class="mb-0 text-right">Cần Thơ</p>
+                                        <p class="mb-0 text-right">Hà Nội</p>
                                     </div>
                                 </div>
                                 <hr>
@@ -292,7 +292,7 @@
                         <figure class="itemside mb-3">
                             <div class="aside"><img src="./img/product/book-1.jpg" class="img-sm border"></div>
                             <figcaption class="info align-self-center">
-                                <p class="title">Dell Laptop with 500GB HDD <br> 8GB RAM</p> <span
+                                <p class="title">Product 1</p> <span
                                     class="text-danger">100.000đ </span>
                             </figcaption>
                         </figure>
@@ -301,7 +301,7 @@
                         <figure class="itemside mb-3">
                             <div class="aside"><img src="./img/product/book-1.jpg" class="img-sm border"></div>
                             <figcaption class="info align-self-center">
-                                <p class="title">Dell Laptop with 500GB HDD <br> 8GB RAM</p> <span
+                                <p class="title">Product 1</p> <span
                                     class="text-danger">100.000đ </span>
                             </figcaption>
                         </figure>
@@ -310,7 +310,7 @@
                         <figure class="itemside mb-3">
                             <div class="aside"><img src="./img/product/book-1.jpg" class="img-sm border"></div>
                             <figcaption class="info align-self-center">
-                                <p class="title">Dell Laptop with 500GB HDD <br> 8GB RAM</p> <span
+                                <p class="title">Product 1</p> <span
                                     class="text-danger">100.000đ </span>
                             </figcaption>
                         </figure>
@@ -319,7 +319,7 @@
                         <figure class="itemside mb-3">
                             <div class="aside"><img src="./img/product/book-1.jpg" class="img-sm border"></div>
                             <figcaption class="info align-self-center">
-                                <p class="title">Dell Laptop with 500GB HDD <br> 8GB RAM</p> <span
+                                <p class="title">Product 1</p> <span
                                     class="text-danger">100.000đ </span>
                             </figcaption>
                         </figure>
@@ -328,7 +328,7 @@
                         <figure class="itemside mb-3">
                             <div class="aside"><img src="./img/product/book-1.jpg" class="img-sm border"></div>
                             <figcaption class="info align-self-center">
-                                <p class="title">Dell Laptop with 500GB HDD <br> 8GB RAM</p> <span
+                                <p class="title">Product 1</p> <span
                                     class="text-danger">100.000đ </span>
                             </figcaption>
                         </figure>
@@ -337,7 +337,7 @@
                         <figure class="itemside mb-3">
                             <div class="aside"><img src="./img/product/book-1.jpg" class="img-sm border"></div>
                             <figcaption class="info align-self-center">
-                                <p class="title">Dell Laptop with 500GB HDD <br> 8GB RAM</p> <span
+                                <p class="title">Product 1</p> <span
                                     class="text-danger">100.000đ </span>
                             </figcaption>
                         </figure>
